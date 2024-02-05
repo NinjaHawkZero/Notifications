@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B75AAC82B706FAB007B6A9B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9B75AAC72B706FAB007B6A9B /* README.md */; };
 		9B8E90E12B4A06F8007F2C1B /* NotificationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8E90E02B4A06F8007F2C1B /* NotificationsApp.swift */; };
 		9B8E90E32B4A06F8007F2C1B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8E90E22B4A06F8007F2C1B /* ContentView.swift */; };
 		9B8E90E52B4A06F9007F2C1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B8E90E42B4A06F9007F2C1B /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B75AAC72B706FAB007B6A9B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9B8E90DD2B4A06F8007F2C1B /* Notifications.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Notifications.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B8E90E02B4A06F8007F2C1B /* NotificationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsApp.swift; sourceTree = "<group>"; };
 		9B8E90E22B4A06F8007F2C1B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				9B8E90E02B4A06F8007F2C1B /* NotificationsApp.swift */,
 				9B8E90E22B4A06F8007F2C1B /* ContentView.swift */,
 				9B8E90EE2B4A0742007F2C1B /* NotificationManager.swift */,
+				9B75AAC72B706FAB007B6A9B /* README.md */,
 				9B8E90E42B4A06F9007F2C1B /* Assets.xcassets */,
 				9B8E90E62B4A06F9007F2C1B /* Preview Content */,
 			);
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B75AAC82B706FAB007B6A9B /* README.md in Resources */,
 				9B8E90E82B4A06F9007F2C1B /* Preview Assets.xcassets in Resources */,
 				9B8E90E52B4A06F9007F2C1B /* Assets.xcassets in Resources */,
 			);
